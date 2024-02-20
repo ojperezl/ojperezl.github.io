@@ -1,0 +1,15 @@
+/* TEAM */
+	Chef: Oscar Pérez-Lora
+	Contact: ojperezl [at] gmail.com
+	Twitter: @gndx
+	From: Hispanoamericano.
+
+/* THANKS */
+	Template: EV0 Theme
+	GitHub: @ojperezl
+
+/* SITE */
+	Last update: 2024/02/18
+	Language: Spanish
+	Doctype: Astro
+	IDE: VSCode
